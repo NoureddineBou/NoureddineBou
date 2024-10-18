@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Noureddine Bouderbala </h1>
-<div align="center"> <img src="https://visitcount.itsvg.in/api?id=noureddinebou&icon=0&color=1" width="200" alt="nxr-deen" />
+<div align="center"> <img src="https://visitcount.itsvg.in/api?username=noureddinebou&icon=0&color=1" width="200" alt="nxr-deen" />
 </div>
 
 ## 🌐 Socials:
