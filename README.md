@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Noureddine Bouderbala </h1>
 <h3 align="center">A passionate developer from Algeria</h3>
-<img align="center" src="https://visitcount.itsvg.in/api?id=noureddinebou&icon=0&color=1" width="200" alt="nxr-deen" /> </p>
+<div align="center"> <img src="https://visitcount.itsvg.in/api?id=noureddinebou&icon=0&color=1" width="200" alt="nxr-deen" />
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/NoureddineBouderbala ) 
