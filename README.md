@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Noureddine Bouderbala </h1>
 <h3 align="center">A passionate developer from Algeria</h3>
-<img src="https://visitcount.itsvg.in/api?id=noureddinebou&icon=0&color=1" width="200" alt="nxr-deen" /> </p>
+<img align="center" src="https://visitcount.itsvg.in/api?id=noureddinebou&icon=0&color=1" width="200" alt="nxr-deen" /> </p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/NoureddineBouderbala ) 
@@ -19,6 +19,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=nxr-deen&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=noureddinebou&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
